@@ -1,1 +1,1 @@
-Code associated with OSA competition to find allosteric binders of MurD. This is not associated with any commerical organisation, it's just a few weekend's hacking. Top hits have __not__ been assessed by medicinal chemists.
+Code associated with OSA's competition to find allosteric binders of MurD. This is not associated with any commerical organisation, it's just a few weekend's hacking. Top hits have __not__ been assessed by medicinal chemists.
